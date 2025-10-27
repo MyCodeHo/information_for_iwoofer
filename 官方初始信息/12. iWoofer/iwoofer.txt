@@ -1,0 +1,4 @@
+iWoofer is the mic+freq.resp ananlyzer+DSP, it doesn't matter how many subwoofers in your setup, only the point where was placed the mic(and your chair, I believe) will be compensated with FIR to fit the target curve.
+
+The iWoofer Pro is a wireless subwoofer DSP control system with opened hardware design. The app allows control plenty of DSP functions in an intuitive manner. Low latency (2.5mS FIR + 2.5mS IIR filtering and ADC/DAC = 5mS total) pro grade minimum phase FIR room correction algorithm. No external mic required.
+
